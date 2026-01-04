@@ -65,7 +65,7 @@
 
 🔹 **creature_template_model** → Duplique une ligne → Change **DisplayID** (50002)
 
-🔹 **item_template** → Duplique Ashes of Al'ar → Change **entry** (ex:65000) + **spellid_1** (ex:500001)
+🔹 **item_template** → Duplique Ashes of Al'ar → Change **entry** (ex:65000)
 
 ---
 
