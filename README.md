@@ -97,4 +97,6 @@
 
 ---
 
-**Bravo ! 🎊**
+<p align="center">
+  <img src="https://i.imgur.com/IfAyrht.png" width="600">
+</p>
