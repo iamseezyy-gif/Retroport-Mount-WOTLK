@@ -11,7 +11,7 @@
 ### 3️⃣ Conversion M2 → M2i
 🔄 **M2Mod** → M2 → M2i → **GO!**
 
-### 4️⃣ Réduction des Polygones (si Tris > 21,500)
+### 4️⃣ Réduction des Polygones (si Tris > ~21,845)
 📐 **Blender** → Importe le M2i  
 📐 Sélectionne chaque mesh → Ajoute **Decimate**  
 📐 Ajuste jusqu'à **Tris < 21,500**  
