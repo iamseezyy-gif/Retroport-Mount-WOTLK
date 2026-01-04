@@ -59,7 +59,7 @@
 
 ### 1️⃣1️⃣ HeidiSQL
 🔹 **creature_model_info** → Duplique une ligne → Change **DisplayID** (76000)  
-🔹 **item_template** → Duplique Ashes of Al'ar → Change **entry** (65000) + **spellid_1** (500001)
+🔹 **item_template** → Duplique Ashes of Al'ar → Change **entry** (ex:65000) + **spellid_1** (ex:500001)
 
 ---
 
